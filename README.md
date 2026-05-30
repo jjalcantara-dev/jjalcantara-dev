@@ -1,21 +1,37 @@
 # Hi, I'm Jesús Jiménez 👋
 
-Backend Engineer with 4+ years of experience building cloud-native systems, scalable APIs and AI-powered applications.
+Backend Engineer with 4+ years of experience designing and building cloud-native systems, scalable APIs and production-grade software.
 
 ## Current Focus
 
 * Backend Development
+* Software Architecture
 * Cloud Architecture
 * Artificial Intelligence
-* Distributed Systems
 
 ## Tech Stack
 
 **Backend:** ASP.NET Core, C#, Java, Spring Boot, Python, FastAPI
 
-**Cloud & DevOps:** Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps
+**Cloud & DevOps:** Azure, Azure Functions, Azure Table Storage, Azure Blob Storage, Azure Cosmos DB, Docker, Kubernetes, GitHub Actions, Azure DevOps
 
 **Databases:** PostgreSQL, SQL Server, MongoDB, Redis, Cosmos DB
+
+**Architecture & Practices:** REST APIs, Clean Architecture, SOLID, Microservices, Event-Driven Systems, OAuth 2.0, JWT
+
+## Professional Experience
+
+### Koru Acne
+
+Backend development of a mobile platform focused on acne treatment and habit tracking, including subscriptions, gamification, notifications, authentication and cloud-native services.
+
+### Prodigy Padel Academy
+
+Backend services and API development for a sports training platform, including authentication, subscriptions, user management and cloud infrastructure.
+
+### DailyDermaTalks
+
+Pharmaceutical learning platform built with Next.js and modern cloud technologies, contributing across both frontend and backend layers.
 
 ## Featured Projects
 
@@ -31,6 +47,14 @@ GPU-accelerated FastAPI service for voice cloning and text-to-speech using Qwen3
 
 Automated scraper that tracks public contracts and updates Google Sheets automatically.
 
+### Personal Portfolio
+
+Professional portfolio built with Next.js, TypeScript and Tailwind CSS.
+
+### VPO Calculator
+
+Interactive calculator for estimating Andalusian protected housing costs.
+
 ## Education
 
 🎓 B.Sc. in Software Engineering — University of Málaga
@@ -43,4 +67,4 @@ Automated scraper that tracks public contracts and updates Google Sheets automat
 
 💼 LinkedIn: https://linkedin.com/in/jjalcantara
 
-📧 Email: jesusjimalc98@gmail.com
+📧 Email: [jesusjimalc98@gmail.com](mailto:jesusjimalc98@gmail.com)
