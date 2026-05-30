@@ -41,4 +41,6 @@ Automated scraper that tracks public contracts and updates Google Sheets automat
 
 🌐 Website: https://jjalcantara.dev
 
-💼 LinkedIn: linkedin.com/in/jjalcantara
+💼 LinkedIn: https://linkedin.com/in/jjalcantara
+
+📧 Email: jesusjimalc98@gmail.com
