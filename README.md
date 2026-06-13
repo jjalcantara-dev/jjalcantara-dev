@@ -67,4 +67,4 @@ Interactive calculator for estimating Andalusian protected housing costs.
 
 💼 LinkedIn: https://linkedin.com/in/jjalcantara
 
-📧 Email: [jesusjimalc98@gmail.com](mailto:jesusjimalc98@gmail.com)
+📧 Email: [jjalcantara.dev@gmail.com](mailto:jjalcantara.dev@gmail.com)
